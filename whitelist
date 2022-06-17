@@ -1,0 +1,12 @@
+userids = {
+[3167499379] = true, -- aphixe alt start
+[2825751971] = true, 
+[245238954] = true,
+[3167505502] = true,
+[3167498116] = true,
+[3167504285] = true,
+[1866985431] = true,
+[3167515746] = true, -- aphixe alt end
+[1867266632] = true --sor
+}
+return userids
