@@ -8,6 +8,7 @@ userids = {
 [1866985431] = true,
 [3167515746] = true, -- aphixe alt end
 [1574284983] = true,
+[363784792] = true,
 [1867266632] = true --sor
 }
 return userids
